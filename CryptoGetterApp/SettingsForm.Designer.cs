@@ -49,7 +49,6 @@
             uriTextBox.ReadOnly = true;
             uriTextBox.Size = new Size(360, 43);
             uriTextBox.TabIndex = 1;
-            uriTextBox.TextChanged += uriTextBox_TextChanged;
             // 
             // textBox1
             // 

@@ -47,11 +47,6 @@ namespace MyCryptoApp
             get { return (int)numericUpDown1.Value; }
         }
 
-        private void uriTextBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void closeButton_Click(object sender, EventArgs e)
         {
             int newInterval = (int)numericUpDown1.Value * 60000;

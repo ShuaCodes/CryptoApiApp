@@ -801,7 +801,6 @@
         #endregion
 
         private Button updateButton;
-        private Panel panel1;
         private MenuStrip menuStrip1;
         private ToolStripMenuItem fileToolStripMenuItem;
         private ToolStripMenuItem settingsToolStripMenuItem;
